@@ -10,6 +10,27 @@ This project focuses on **scalability, structured information delivery, and lead
 
 ---
 
+
+## 🌍 Live Website
+
+🔗 [https://legalixo.in/](https://legalixo.in/)
+
+---
+
+## 📸 Screenshots
+
+
+* Homepage (multi-section layout)
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/0eac7509-70e2-4dc8-9733-b6895b653ca2" />
+
+* Service page (e.g., registration)
+* Knowledge Bank page
+* Contact form
+* Mobile UI
+
+---
+
 ## 🎯 Core Features
 
 * 🏢 Business registration services (Startup, OPC, LLP, Pvt Ltd, etc.)
@@ -142,23 +163,6 @@ Additionally:
 * Implemented lead generation workflow
 * Structured SEO architecture (sitemap + indexing)
 * Deployed production build
-
----
-
-## 🌍 Live Website
-
-🔗 [https://legalixo.in/](https://legalixo.in/)
-
----
-
-## 📸 Screenshots
-
-
-* Homepage (multi-section layout)
-* Service page (e.g., registration)
-* Knowledge Bank page
-* Contact form
-* Mobile UI
 
 ---
 
