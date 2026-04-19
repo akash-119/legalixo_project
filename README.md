@@ -25,6 +25,14 @@ This project focuses on **scalability, structured information delivery, and lead
   <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/0eac7509-70e2-4dc8-9733-b6895b653ca2" />
 
 * Service page (e.g., registration)
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/e55ffed8-551b-4dc2-b6c9-c077d4c5237d" />
+
+* Reviews
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/4e3392e0-1efe-4388-8780-016c547c88a8" />
+
+
 * Knowledge Bank page
 * Contact form
 * Mobile UI
