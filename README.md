@@ -50,6 +50,9 @@ This project focuses on **scalability, structured information delivery, and lead
 
   <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/7bafa43c-978b-4789-b29a-2c0d1db0bd53" />
 
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/55dc7532-5100-4ccd-ae67-7abc97d8b6cb" />
+
+
 
 ---
 
