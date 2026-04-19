@@ -32,10 +32,24 @@ This project focuses on **scalability, structured information delivery, and lead
 
   <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/4e3392e0-1efe-4388-8780-016c547c88a8" />
 
+* Footer
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/db6528fa-27a2-4e7e-bf1b-d7671a2d0e93" />
+
+
 
 * Knowledge Bank page
-* Contact form
-* Mobile UI
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/7bef46f0-7807-4807-b18a-7ce5d9364ef9" />
+
+* Forms
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/ea2669a2-a4a8-4588-b73a-9a6eb19f511e" />
+
+* Calculators
+
+  <img width="1674" height="848" alt="image" src="https://github.com/user-attachments/assets/7bafa43c-978b-4789-b29a-2c0d1db0bd53" />
+
 
 ---
 
